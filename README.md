@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amitmishra007
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Next.js and Blockchain Development 
 - 🌱 I’m currently learning React. js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
