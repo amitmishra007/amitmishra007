@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitmishra007
-- 👀 I’m interested in Next.js and Blockchain Development 
-- 🌱 I’m currently learning React. js
+- 👀 I’m interested in Web 3.0 and Blockchain Development 
+- 🌱 I’m currently learning Next js, Node js, PostgreSQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
